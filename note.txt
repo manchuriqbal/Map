@@ -1,0 +1,13 @@
+Folium Map project
+
+import folium
+file save
+maker
+Circle Marker
+adding marker from data 
+ create popup windows
+color based point marker 
+using G                                                                                                                                                                                                                                                                                             eoJson
+add geojson  polygon
+color based polygon
+add layer control panel
